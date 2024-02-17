@@ -1,0 +1,2 @@
+Why are you interested in taking CMSC320?
+I want to take CMSC320 because it seems like a course that will give me skills I can apply in projects and use to work on machine learning in the future.
